@@ -3,7 +3,7 @@
 使用 create-react-app 写 [TodoMVC](https://github.com/tastejs/todomvc)
 
 ## 预览
-[http://uniquexiaobai.cn/todo-react/index.html](http://uniquexiaobai.cn/todo-react/index.html)
+[http://uniquexiaobai.cn/todo-react/](http://uniquexiaobai.cn/todo-react/)
 
 ## 安装与运行
 
