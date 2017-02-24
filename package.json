@@ -2,6 +2,7 @@
   "name": "todos-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://uniquexiaobai.cn/todo-react/",
   "devDependencies": {
     "react-scripts": "0.8.5"
   },
